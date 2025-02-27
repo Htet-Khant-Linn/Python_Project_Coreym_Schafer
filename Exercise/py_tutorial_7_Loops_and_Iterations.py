@@ -36,11 +36,11 @@ while x < 10:
     print(x)
     x += 1
     
-while True:
-    if x == 5:
-        break
-    print(x)
-    x += 1
+# while True:
+#     if x == 5:
+#         break
+#     print(x)
+#     x += 1
 # to interrupt continuous loop, press Ctrl + C
 
 
